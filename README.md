@@ -31,3 +31,5 @@ Vous pourrez changer le port d'écoute (1337 par défaut) :
 
 - Dans le fichier server.js à la ligne 10
 - Dans le fichier js/client.js à la ligne 4
+
+Oui, pourquoi pas
